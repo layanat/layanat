@@ -3,7 +3,7 @@
 ### A little bit about me 🐙
 Welcome to my space ✨
 
-You can call me Lay, short for Layana. I'm a final year Software Engineering student graduating in April 2025 👩🏻‍🎓
+You can call me Lay, short for Layana. I Just graduated as valedectorian of the Gina Cody class of 2025 in Bachelors of Software Engineering👩🏻‍🎓
 
 I'm passionate about web development and tackling new challenges. I like to think of myself as a fast learner who likes to take every opportunity to learn new skills (I try not to get too rusty) 😅
 
@@ -20,7 +20,7 @@ I love creating with like-minded individuals who are open to sharing experiences
 ### Aside from Tech 🍀🐈🎧📚
 🫡 Aside from tech, I am a people's manager and have been in manager roles for different institutions since 2021. 
 
-🏋🏻 I enjoy hitting the gym, and I'm Currently working as a part-time administrative manager for a local studio gym 
+🏋🏻 I enjoy hitting the gym, and I'm Currently working as a operations manager for a local studio gym 
 
 🐈 I love cats, especially Lava my girl
 
